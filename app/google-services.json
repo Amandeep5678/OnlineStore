@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "485471128947",
+    "firebase_url": "https://onlineshoestore-d8233.firebaseio.com",
+    "project_id": "onlineshoestore-d8233",
+    "storage_bucket": "onlineshoestore-d8233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485471128947:android:1c2926e73d62fed8434906",
+        "android_client_info": {
+          "package_name": "com.example.onlineshoestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485471128947-ggqn83es1ojo4r22ofi3o1gads6eh5rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAosTJQovLGYby4k-_6mr_yzNjhdmdjKy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485471128947-ggqn83es1ojo4r22ofi3o1gads6eh5rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
