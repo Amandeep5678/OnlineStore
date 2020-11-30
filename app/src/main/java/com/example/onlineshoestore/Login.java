@@ -83,6 +83,13 @@ public class Login extends AppCompatActivity {
 
             }
         });
+        mLoginBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(getApplicationContext(),Home.class));
+
+            }
+        });
         mForgot.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
